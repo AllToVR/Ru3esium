@@ -7,9 +7,7 @@ This software is an interactive 4D Transactional Reporting System based upon loc
 
 This project started with Cesium-threejs-experiment by Wilson Mukar. Please read the original posts here: https://cesium.com/blog/2017/10/23/integrating-cesium-with-threejs/
 
-There are two versions of this software: This version has no ability to communicate with the server. For the version that has communication with the server via Socket.io; Visit: https://github.com/AllToVR/Ru3esium-io
-
-Live demonstrations can found here: http://mib.alltovr.com/apps/itc/Ru3esium-ioAutoLoad.html
+There are two versions of this software: This version has no ability to communicate with the server. For the version that has communication with the server via Socket.io; Visit: https://mib.alltovr.com/apps/itc/Ru3esium-ioAutoLoad.html
 
 Location: 
 We are dealing with every legal address worldwide; so your data is sorted by: Countries, States and zip codes.
@@ -30,8 +28,6 @@ The data files: In the “chartResults” directory are all the 3ZML files for t
 
 
 Installation:
-
-BingKey:  You will need to get your own Bing key…
 
 Location of script files:  This will be the location of the files on your server. Search and replace “YourSite” with the name of your site.
 
